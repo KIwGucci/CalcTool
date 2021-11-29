@@ -1,7 +1,7 @@
 # jupyter 電卓　個人用
 
 個人的に使うjupyter 電卓
-numpy sympy scipyをあらかじめセットアップしている。
+numpy sympyをあらかじめセットアップしている。
 ターミナルでjupyter labと入力して起動する。
 
 ## link
